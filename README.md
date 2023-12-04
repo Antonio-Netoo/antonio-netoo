@@ -1,4 +1,4 @@
-### Olá! 👋:sunglasses:
+### Olá! 👋
 
 Eu sou Antonio Neto, um programador Front End, atualmente estou criando projetos com:
 
